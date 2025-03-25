@@ -1,5 +1,3 @@
-<br />
-
 **About me**
 
  Motivated and adaptable developer with experience in JavaScript/TypeScript, React, Vue, Node.js, and database.
