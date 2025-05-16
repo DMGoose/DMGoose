@@ -3,9 +3,9 @@
  Motivated and adaptable developer with experience in JavaScript/TypeScript, React, Vue, Node.js, and database.
 
 
-- 💼 Full-stack Developer
+- 💼 Full-stack Developer, I like writing Java/JavaScript, and building fun experiments
 
-- ❤️ I love writing Java/JavaScript, and building fun experiments on type-level
+- ❤️ I love Fitness(heavy lifting), Photography, Paino and Gaming(FPS mainly)
 
 - 🎇 Visite my website [here](https://www.owdran.com/)
 
