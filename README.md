@@ -1,6 +1,7 @@
 # Hi, I'm Ran 
 
-** About Me **
+**About Me**
+
 Motivated and adaptable developer with experience in JavaScript/TypeScript, React, Vue, Node.js, and database.
 
 
