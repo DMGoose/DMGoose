@@ -7,7 +7,7 @@ Motivated and adaptable developer with experience in JavaScript/TypeScript, Reac
 
 - 💼 Full-stack Developer, I like writing Java/JavaScript, and building fun experiments
 
-	- **Languages**: JavaScript, TypeScript, Java, Python, Bash
+	- **Languages**: JavaScript, TypeScript, Tailwind CSS, Java, Python, Bash
 	- **Frameworks & Tools**: React.js, Vue.js, Next.js, Node.js(Express), Nest.js
 	- **Databases**: MySQL, PostgreSQL, MongoDB
 	- **Tools**: GitHub Actions, Docker, Git, Webpack, Linux
