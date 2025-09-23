@@ -2,7 +2,7 @@
 
 **About Me**
 
-Motivated and adaptable developer with experience in JavaScript/TypeScript, React, Vue, Node.js, and database.
+Motivated and adaptable developer with experience in Java, Python, TypeScript, React, Vue, Node.js, and database.
 
 
 - 💼 Full-stack Developer, I like writing Java/JavaScript, and building fun experiments
