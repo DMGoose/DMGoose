@@ -13,7 +13,7 @@ Motivated and adaptable developer with experience in Java, Python, JavaScript/Ty
 	- **Tools**: GitHub Actions, Docker, Git, Webpack, Linux
 	- **Cloud**: AWS(Certified Cloud Practitioner), GCP
 
-- ❤️ I love Fitness(heavy lifting), Photography, Paino and Gaming(FPS mainly)
+- ❤️ I love Fitness (heavy lifting), Photography, Paino and Gaming (FPS mainly)
 
 - 🎇 Visite my website [here](https://www.owdran.com/)
 
