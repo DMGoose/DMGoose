@@ -2,18 +2,18 @@
 
 **About Me**
 
-Motivated and adaptable developer with experience in Java, Python, JavaScript/TypeScript, React, Vue, Node.js, and database.
+Motivated and adaptable software engineer with experience in Python, JavaScript/TypeScript, Java, platform enigneering and security compliance.
 
 
-- 💼 Full-stack Developer, I like writing Java/JavaScript, and building fun experiments
+- 💼 I like exploring AI and building fun experiments.
 
-	- **Languages**: JavaScript, TypeScript, Tailwind CSS, Java, Python, Bash
-	- **Frameworks & Tools**: React.js, Vue.js, Next.js, Node.js(Express)
+	- **Languages**: Python, JavaScript, TypeScript, Tailwind CSS, Java,  Bash
+	- **Frameworks & Tools**: React.js, Next.js, Node.js(Express), FastAPI
 	- **Databases**: MySQL, PostgreSQL, MongoDB
-	- **Tools**: GitHub Actions, Docker, Git, Webpack, Linux
+	- **Tools**: GitHub Actions, Docker, Kubernetes, Git, Linux
 	- **Cloud**: AWS (Certified Cloud Practitioner), GCP
 
-- ❤️ I love Fitness (heavy lifting), Photography, Paino and Gaming (FPS mainly)
+- ❤️ I love heavy lifting, Photography, Paino and Gaming
 
 - 🎇 Visite my website [here](https://www.owdran.com/)
 
@@ -24,5 +24,4 @@ Motivated and adaptable developer with experience in Java, Python, JavaScript/Ty
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
 <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMGoose&locale=en&line_height=33&theme=&langs_count=5&layout=compact"/>
